@@ -1,0 +1,13 @@
+body {
+	background-color: violet;
+	color: white;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.container {
+	background-color: purple;
+}
+
+img {
+	width: 150px;
+}
